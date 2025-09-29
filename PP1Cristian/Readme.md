@@ -28,6 +28,7 @@ public static long invertirIterativo(long n) {
 }
 
 -¿Cree que hay alguna otra manera recursiva de generar el mismo resultado?
+
 -Usando el número de dígitos con Math.log10() para colocar cada dígito en su posición correcta.
 
 -Convertir el número a String y aplicar recursión sobre la cadena.
