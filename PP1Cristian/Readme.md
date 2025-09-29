@@ -33,6 +33,7 @@ public static long invertirIterativo(long n) {
 -Convertir el número a String y aplicar recursión sobre la cadena.
 
 -?Qué relación observa entre el algoritmo para invertir un número natural y las estrategias para pasar de una base numérica a otra?
+
 -Que ambos algoritmos usan la técnica de división sucesiva y residuos.
 
 
