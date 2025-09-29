@@ -35,7 +35,4 @@ public static long invertirIterativo(long n) {
 -?Qué relación observa entre el algoritmo para invertir un número natural y las estrategias para pasar de una base numérica a otra?
 -Que ambos algoritmos usan la técnica de división sucesiva y residuos.
 
-### Desde consola
-1. Compilar:
-```bash
-javac PP1/Inverso.java
+
