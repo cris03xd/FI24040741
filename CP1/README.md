@@ -11,7 +11,6 @@
 Durante la realización del trabajo, se consultaron las siguientes fuentes:
 
 - GeeksforGeeks para referencias sobre estructuras de datos (Stacks y Queues)  
-- ChatGPT para explicaciones y aclaración de dudas sobre estructuras de datos
 
 ---
 
