@@ -29,16 +29,4 @@ Sí. Se puede leer todo el archivo en un arreglo o lista y luego escribirlo desd
 - Impresoras compartidas: los trabajos se imprimen en orden  
 - Pedidos en línea: se procesan según el orden de recepción
 
----
 
-## Estructura de los proyectos
-
-/Colas
-├─ TheQueue.java
-└─ TheQueueInterface.java
-/Pilas
-├─ TheStack.java
-└─ TheStackInterface.java
-/Recursividad
-└─ Numbers.java
-README.md
