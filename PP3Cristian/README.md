@@ -8,7 +8,7 @@
 ## Entorno de desarrollo
 
 * **Lenguaje:** Java SE 21
-* **JDK:** 21 (LTS)
+* **JDK:** 21 
 * **IDE utilizado:** NetBeans IDE 27
 
 ## Páginas consultadas
