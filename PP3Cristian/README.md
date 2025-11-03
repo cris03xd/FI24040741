@@ -31,10 +31,10 @@ Usaría una lista simplemente enlazada o una lista circular, ya que en una cola 
 ### 2️ ¿Cuál podría ser una ventaja y una desventaja de usar una lista creada manualmente en lugar de las de Java (como `ArrayList` o `LinkedList`)?
 
 * **Ventaja:**
-  Permite tener control total sobre la estructura interna, optimizar el comportamiento según las necesidades del programa y entender mejor cómo funcionan las listas dinámicas en memoria.
+  Brinda un control completo sobre la estructura interna, permitiendo optimizar su comportamiento según las necesidades del programa y comprender en profundidad cómo funcionan las listas dinámicas en memoria.
 
 * **Desventaja:**
-  Requiere más tiempo de desarrollo y pruebas. Además, las implementaciones estándar de Java son más seguras, optimizadas y probadas para múltiples escenarios, por lo que suelen ser más confiables y eficientes para uso general.
+  Exige más tiempo de desarrollo y pruebas. Además, las implementaciones estándar de Java son más seguras, están mejor optimizadas y han sido ampliamente probadas, por lo que resultan más confiables y eficientes para la mayoría de los casos de uso.
 
 ---
 
