@@ -13,11 +13,8 @@
 
 ## Páginas consultadas
 
-* [GeeksforGeeks — Doubly Circular Linked List](https://www.geeksforgeeks.org/doubly-circular-linked-list-set-1-introduction-and-insertion/)
-* [Stack Overflow — Implementing Circular Doubly Linked Lists in Java](https://stackoverflow.com/questions/38043170/implementing-a-doubly-circular-linked-list-in-java)
-* [Oracle Java Documentation — Classes and Objects](https://docs.oracle.com/javase/tutorial/java/javaOO/index.html)
-* [Baeldung — Java Generics Tutorial](https://www.baeldung.com/java-generics)
-
+* Documentación oficial de Java (Oracle Docs):
+Consultada para revisar la sintaxis y uso de clases genéricas y colecciones en Java. 
 ---
 
 ## Preguntas teóricas
