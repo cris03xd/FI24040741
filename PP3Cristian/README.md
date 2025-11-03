@@ -14,7 +14,10 @@
 ## Páginas consultadas
 
 * Documentación oficial de Java (Oracle Docs):
-Consultada para revisar la sintaxis y uso de clases genéricas y colecciones en Java. 
+Consultada para revisar la sintaxis y uso de clases genéricas y colecciones en Java.
+
+* GeeksforGeeks:
+Utilizada para reforzar la comprensión de cómo funcionan las listas doblemente enlazadas y sus operaciones.
 ---
 
 ## Preguntas teóricas
