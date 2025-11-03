@@ -24,9 +24,7 @@
 
 ### 1️ Si tuviera que implementar una estructura tipo **Cola (Queue)**, ¿qué tipo de lista utilizaría y por qué?
 
-Utilizaría una **lista simplemente enlazada** o una **lista circular**.
-La razón es que en una cola los elementos se agregan al final y se eliminan al inicio, por lo que no es necesario recorrer hacia atrás.
-Una lista circular permite conectar el último elemento con el primero, lo cual facilita manejar la estructura sin necesidad de punteros nulos y hace más eficiente el acceso en operaciones repetitivas.
+Usaría una lista simplemente enlazada o una lista circular, ya que en una cola las operaciones principales son insertar al final y eliminar al inicio, sin necesidad de recorrerla en sentido inverso. La lista circular tiene la ventaja de enlazar el último nodo con el primero, evitando el uso de referencias nulas y permitiendo un manejo más continuo y eficiente de los elementos.
 
 ---
 
