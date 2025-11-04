@@ -18,6 +18,9 @@ Consultada para revisar la sintaxis y uso de clases genéricas y colecciones en 
 
 * GeeksforGeeks:
 Utilizada para reforzar la comprensión de cómo funcionan las listas doblemente enlazadas y sus operaciones.
+
+* Stack Overflow:
+Consultada para resolver dudas relacionadas con referencias circulares y el manejo de punteros en listas enlazadas.
 ---
 
 ## Preguntas teóricas
