@@ -1,4 +1,4 @@
-# Práctica Programada 3 — Listas Doblemente Enlazadas Circulares
+# Práctica Programada 3 — Listas Doblemente Enlazadas Circular
 
 ## Datos del estudiante
 
